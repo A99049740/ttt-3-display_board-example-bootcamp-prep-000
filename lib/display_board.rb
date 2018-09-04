@@ -10,3 +10,4 @@ def display_board
   puts dash
   puts row
 end
+display_board
