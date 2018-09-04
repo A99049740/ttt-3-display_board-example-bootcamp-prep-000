@@ -2,3 +2,10 @@
 cell = "   "
 row = cell+"|"+cell+"|"+cell
 dash = "-----------"
+
+def display_board
+  puts row
+  puts dash
+  puts row
+  puts dash
+  puts row
